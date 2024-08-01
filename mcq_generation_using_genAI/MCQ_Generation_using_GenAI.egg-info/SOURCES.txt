@@ -1,0 +1,10 @@
+setup.py
+MCQ_Generation_using_GenAI.egg-info/PKG-INFO
+MCQ_Generation_using_GenAI.egg-info/SOURCES.txt
+MCQ_Generation_using_GenAI.egg-info/dependency_links.txt
+MCQ_Generation_using_GenAI.egg-info/requires.txt
+MCQ_Generation_using_GenAI.egg-info/top_level.txt
+mcq/__init__.py
+mcq/quiz/__init__.py
+mcq/quiz/logger.py
+mcq/quiz/utils.py

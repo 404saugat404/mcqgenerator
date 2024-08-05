@@ -20,7 +20,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/mcq-generator.git
+git clone https://github.com/404saugat404/mcqgenerator.git
 cd mcq-generator
 
 Install the required libraries:
